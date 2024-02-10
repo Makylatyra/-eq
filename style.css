@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:#FFDAB9 ;
+    margin: 20px;
+}
+
+header img{
+    margin:20px ;
+}
+
+.h{
+    background-color: antiquewhite;
+    color: burlywood;
+}
+
+footer p{
+    background-color: bisque;
+}
+
+nav a{
+    color: burlywood;
+    background-color:#FAEBD7 ;
+    text-decoration: none;
+    padding: 5px;
+    border-radius:10px;
+}
+
+.s{
+    background-color:#FFF5EE;
+}
+
+.k{
+    background-color: antiquewhite;
+    color: burlywood;
+}
